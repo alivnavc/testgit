@@ -1,0 +1,1 @@
+git init > to initialize a folder as a repository
